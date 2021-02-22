@@ -1,0 +1,25 @@
+{
+  "name": "select",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@react-aria/button": "^3.3.1",
+    "@react-aria/focus": "^3.2.3",
+    "@react-aria/interactions": "^3.3.3",
+    "@react-aria/listbox": "^3.2.4",
+    "@react-aria/overlays": "^3.6.1",
+    "@react-aria/select": "^3.3.0",
+    "@react-aria/ssr": "^3.0.1",
+    "@react-aria/utils": "^3.6.0",
+    "@react-stately/collections": "^3.3.0",
+    "@react-stately/select": "^3.1.1",
+    "next": "10.0.7",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  }
+}
